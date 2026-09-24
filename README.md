@@ -1,6 +1,8 @@
 # finalyearproject
 Undergraduate capstone project for the Information Engineering program at the Federal University of ABC, by Lucas de Medeiros.
 
+In the PDF document, you will find everything you need to replicate the project.
+
 Abstract: This work presents the development and validation of a computer vision-based intelligent
 traffic light system prototype, motivated by the fact that traffic lights predominantly
 operate with fixed timings without considering their surroundings. The proposal involves
